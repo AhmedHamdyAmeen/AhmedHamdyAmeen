@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a dedicated and skilled Full Stack Java Developer with 3 years of experience building an enterprise-level mission-critical application in the payment industry.
+I enjoy learning new technologies and concepts and utilizing what I learned to solve people's problems, this is my job, a Problem Solver. 
+
 <!--
 **AhmedHamdyAmeen/AhmedHamdyAmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
